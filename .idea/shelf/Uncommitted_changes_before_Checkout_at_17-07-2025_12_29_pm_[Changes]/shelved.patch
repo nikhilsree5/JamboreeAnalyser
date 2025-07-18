@@ -1,0 +1,77 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e39d29f2-f4cc-4974-b748-ffdb942c61dd\" name=\"Changes\" comment=\"Third commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/requirements.txt\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"nikhilsree5\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/nikhilsree5/MLops1.git\",\r\n    \"accountId\": \"67fb50ad-42cd-4983-b234-5218d87d71b8\"\r\n  },\r\n  \"recentNewPullRequestHead\": {\r\n    \"server\": {\r\n      \"useHttp\": false,\r\n      \"host\": \"github.com\",\r\n      \"port\": null,\r\n      \"suffix\": null\r\n    },\r\n    \"owner\": \"nikhilsree5\",\r\n    \"repository\": \"MLops1\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2zx9TIrVCcx0Zdvx7wMBcp4YLIJ\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"#1 on A\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e39d29f2-f4cc-4974-b748-ffdb942c61dd\" name=\"Changes\" comment=\"\" />\r\n      <created>1752661866418</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1752661866418</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Third commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1752728952952</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1752728952952</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Third commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Third commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 83098300951ca827c6ef7fc492d0d252feec10f1)
++++ b/.idea/workspace.xml	(date 1752734429893)
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e39d29f2-f4cc-4974-b748-ffdb942c61dd" name="Changes" comment="Third commit">
+-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+-    </list>
++    <list default="true" id="e39d29f2-f4cc-4974-b748-ffdb942c61dd" name="Changes" comment="Third commit" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -20,28 +18,28 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "nikhilsree5"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;nikhilsree5&quot;
+   }
+-}]]></component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/nikhilsree5/MLops1.git",
+-    "accountId": "67fb50ad-42cd-4983-b234-5218d87d71b8"
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/nikhilsree5/MLops1.git&quot;,
++    &quot;accountId&quot;: &quot;67fb50ad-42cd-4983-b234-5218d87d71b8&quot;
+   },
+-  "recentNewPullRequestHead": {
+-    "server": {
+-      "useHttp": false,
+-      "host": "github.com",
+-      "port": null,
+-      "suffix": null
++  &quot;recentNewPullRequestHead&quot;: {
++    &quot;server&quot;: {
++      &quot;useHttp&quot;: false,
++      &quot;host&quot;: &quot;github.com&quot;,
++      &quot;port&quot;: null,
++      &quot;suffix&quot;: null
+     },
+-    "owner": "nikhilsree5",
+-    "repository": "MLops1"
++    &quot;owner&quot;: &quot;nikhilsree5&quot;,
++    &quot;repository&quot;: &quot;MLops1&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 2
+ }</component>
+@@ -53,7 +51,7 @@
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "#1 on A"
++    "git-widget-placeholder": "A"
+   }
+ }]]></component>
+   <component name="SharedIndexes">
